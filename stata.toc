@@ -1,0 +1,4 @@
+v 1.0.0.0
+d 'pencode':  generation of regional dummy based on province information
+
+p pencode
